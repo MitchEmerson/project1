@@ -1,0 +1,52 @@
+#main_page  {
+
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaN4MP7pD1ZNW9pYkrFQsSYJQc13qhjdLsbg&usqp=CAU")
+}
+
+h1 {
+    color:goldenrod;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 25vh;
+    -webkit-text-stroke: 1px greenyellow;
+    
+}
+
+h2   {
+    color: blueviolet;
+    text-align: center;
+    font-size: 10vh;
+    -webkit-text-stroke: 1px white;
+}
+
+p   {
+    color: white;
+    text-align: center;
+    -webkit-text-stroke: 1px #fffc2f;
+}   
+
+   
+
+.button {
+    background-color: red; 
+    border-radius: 25px;
+    width: 20%;
+    color: rgb(21, 24, 211);
+    margin: 0, 0, 10px, 40px;
+    padding-left: 40px 0px, 40px 0;
+    border-left: 40px;
+    text-align: center;
+    font-size: 8vh;
+    position: absolute;
+    right: 40%;
+    margin-bottom: 25%;
+  }
+
+  #directions   {
+      border-radius: 25px;
+      height: 12%;
+      width: 20%;
+      background-color: grey;
+      margin-left: 15%;
+      
+    }
